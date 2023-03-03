@@ -1,0 +1,32 @@
+[
+	{
+		"title": "jamon",
+		"description": "soy un jamon",
+		"code": "hola",
+		"price": "100",
+		"status": "true",
+		"stock": "50",
+		"category": "jamones",
+		"id": "3eb916df-64e1-454f-af35-02f7480df298"
+	},
+	{
+		"title": "tomate",
+		"description": "soy un tomate",
+		"code": "hola",
+		"price": "200",
+		"status": "true",
+		"stock": "50",
+		"category": "verduras",
+		"id": "af55ccca-3b95-4491-8391-18c0814fbed0"
+	},
+	{
+		"title": "tostado",
+		"description": "soy un tostado",
+		"code": "chau",
+		"price": "10",
+		"status": "true",
+		"stock": "191202",
+		"category": "sexo",
+		"id": "b3402e7e-cca7-4a75-aa6c-a424dcb50d47"
+	}
+]

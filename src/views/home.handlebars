@@ -1,0 +1,22 @@
+<h1>{{title}}</h1>
+
+{{!-- {{#if user.isAdmin}} --}}
+        {{#each products}}
+            <div>
+                <h3>Producto: {{this.title}}</h3>
+                <p>Descripción: {{this.description}}</p>
+                <p>Categoria: {{this.category}}</p>
+                <span>Precio: {{this.price}}$</span>
+                <span>Stock: {{this.stock}}$</span>
+            </div>
+            <hr>
+        {{/each}}
+
+    {{!-- {{else}} --}}
+        {{!-- <h2>no sos admin je</h2> --}}
+
+    {{!-- {{/if}} --}}
+
+{{! <script src="/socket.io/socket.io.js"></script>
+ }}
+{{!-- {{ --}}
